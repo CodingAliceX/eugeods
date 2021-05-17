@@ -1,0 +1,2 @@
+# eugeods
+Eugeo Discord Bot
