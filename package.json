@@ -1,0 +1,22 @@
+{
+  "name": "bottest1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "forever": "^3.0.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "pkg_ms_to_time": "git+ssh://git@github.com/npm-pkg-private/pkg_ms_to_time.git",
+    "pkg_mysql_operation": "git+ssh://git@github.com/npm-pkg-private/pkg_mysql_operation.git",
+    "pkg_random_num": "git+ssh://git@github.com/npm-pkg-private/pkg_random_num.git",
+    "pkg_send_msg_specific_channel": "github:npm-pkg-private/pkg_send_msg_specific_channel"
+  }
+}
