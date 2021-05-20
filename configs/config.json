@@ -1,12 +1,12 @@
 {
-"token":"NzgzNDMwNjkxMTI3OTUxMzcx.X8aosA.8zpQPogS8Krm-3A0CUXC3CoPRXc",
+"token":"",
 "prefix":"!",
 "statusmessage":"Underworld",
 "statustype":"PLAYING",
-"mysqlhost":"192.168.1.3",
-"mysqluser":"eugeobot",
-"mysqlpassword":"fdXH9kP9vvleoMWA",
-"mysqldatabase":"eugeobot",
-"ownerid":"688041891845242926"
+"mysqlhost":"",
+"mysqluser":"",
+"mysqlpassword":"",
+"mysqldatabase":"",
+"ownerid":""
 
 }
